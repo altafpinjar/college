@@ -1,0 +1,10 @@
+add student 
+delete
+edit data 
+view
+
+<?php
+require_once('connect.php')
+$sname=$_POST['sname']
+?>
+
